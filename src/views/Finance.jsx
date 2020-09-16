@@ -66,7 +66,7 @@ class Finance extends React.Component {
                         </div>
                         <div className="w-3/4 m-auto my-16">
                             <h3 className="text-5xl pl-6 font-bold text-white bg-blue-500 rounded-t">
-                                Banque
+                               Banque
                             </h3>
                             <div className="h-1 w-full bg-blue-500">
                             </div>
