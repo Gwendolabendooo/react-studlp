@@ -24,22 +24,22 @@ function App() {
                 <Route exact path="/">
                     <Index />
                 </Route>
-                <Route exact path="/sante">
+                <Route exact path="/Sante">
                     <Sante />
                 </Route>
-                <Route exact path="/logement">
+                <Route exact path="/Logement">
                     <Logement />
                 </Route>
-                <Route exact path="/alimentation">
+                <Route exact path="/Alimentation">
                     <Alimentation />
                 </Route>
-                <Route exact path="/finance">
+                <Route exact path="/Finance">
                     <Finance />
                 </Route>
-                <Route exact path="/login">
+                <Route exact path="/Login">
                     <Login />
                 </Route>
-                <Route exact path="/register">
+                <Route exact path="/Register">
                     <Register />
                 </Route>
             </Switch>
